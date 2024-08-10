@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAASIOSYhVWvkCBcUiHvr+6NAAAAAACAAAAAAAQZgAAAAEAACAAAADdZ/xsCbgjZ92y+L/6YnAWaxpuyeh0A6OgNSOeiDvebAAAAAAOgAAAAAIAACAAAACGh6g33TS2UcBl9i20/j5I0zDy8a5wwuD8kJ4JyNxkBxAAAADCyfz+SCMtLj4YwVJDa2CZQAAAABTSisJyETvuEV8DOpLBehtYjb4Ax520pnuGcgnfEC/TaGHRyop2uD09Q36LW/QpcQGCBm2FJryXGzsTv4ysk34=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://Bookstore</_PublishTargetUrl>
+    <History>False|2024-08-10T12:28:34.1934888Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
